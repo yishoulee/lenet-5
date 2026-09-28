@@ -1,10 +1,11 @@
-# LeNet-5-from-Scratch
+# Historical Learning Project: LeNet-5
 
-This repo is a demo for multiclass classification for visual data and display various basic tasks such building a model and saving it, acquistion of data, training and evaluating the performance etc.
-Classifying handwritten digits using LeNet 5 architecture, written from scratch in PyTorch, is what I considered trivial task in machine learning. 
+> **Status:** Historical learning project from around 2020. Retained for reference; not representative of my current work.
 
-The average acurracy is 98.63%.
+A small PyTorch exercise implementing and training a LeNet-5-style image classifier on handwritten digits.
 
-Note: This is a small side project when I started fresh for machine learning around 3 years ago (2020).
+- Scope: model construction, training, evaluation, and model saving
+- Reported accuracy: **98.63%**
+- Purpose: early machine-learning practice
 
-I have included conda environment requirements and jupyter notebook for demo.
+Current work is better represented by my [GitHub profile](https://github.com/yishoulee).
